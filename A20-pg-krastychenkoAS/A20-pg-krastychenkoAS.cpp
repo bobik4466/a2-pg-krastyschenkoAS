@@ -12,6 +12,7 @@ int main()
     count = 0;
 
     count += 1;
+    cout << count << endl;
     count += 3;
 
     cout << count << endl;
