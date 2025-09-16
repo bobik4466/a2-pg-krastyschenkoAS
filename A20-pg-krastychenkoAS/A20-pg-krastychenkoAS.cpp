@@ -10,7 +10,7 @@ int main()
     int count;
 
     count = 0;
-
+    cout << count << endl;
     count += 1;
     cout << count << endl;
     count += 3;
